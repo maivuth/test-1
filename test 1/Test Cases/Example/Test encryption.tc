@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test encryption</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8799dc1-3b7b-465a-997a-fbf645dbe417</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b809dd1f-317a-4576-810b-0a0bb956fcdb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>b809dd1f-317a-4576-810b-0a0bb956fcdb</id>
+      <masked>false</masked>
+      <name>textInput</name>
+   </variable>
+</TestCaseEntity>
